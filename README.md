@@ -1,4 +1,4 @@
-# Este projeto é mas um trabalho feito com a base no que estou estudando no curso Serfrontend na Udemy💜
+# Este projeto é mas um trabalho feito com a base no que estou estudando na Udemy💜
 
   ## Descrição 🔰:
   <p> Site onde o usuário podera escolher três tipos diferentes de planos de uma certa empresa. </p>
